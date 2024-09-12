@@ -1,6 +1,6 @@
 # Sargam - Music Academy Project
 
-Welcome to **Sargam - Music Academy Project**, an innovative EdTech platform designed to bring the world of music education to your fingertips. Whether you're a beginner looking to start your musical journey or an advanced musician aiming to hone your skills, Sargam offers a comprehensive suite of courses and services tailored to meet your needs.
+Welcome to **Sargam - A Music Academy Project**, an innovative EdTech platform designed to bring the world of music education to your fingertips. Whether you're a beginner looking to start your musical journey or an advanced musician aiming to hone your skills, Sargam offers a comprehensive suite of courses and services tailored to meet your needs.
 
 ## Features
 
